@@ -1,4 +1,0 @@
-interface:
-  display_name: "Polished PPT"
-  short_description: "Create polished, presentation-ready PPT decks"
-  default_prompt: "Use $polished-ppt to create a polished, presentation-ready deck from my materials."
